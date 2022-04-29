@@ -8,6 +8,7 @@ const web3 = new Web3('https://data-seed-prebsc-1-s1.binance.org:8545');
 // Meta Mask Account Address : 0xbc3c59fa255312b91d23ce6186c55d0e265c5604
 
 // Tutorial Link: https://codeforgeek.com/how-to-send-ethereum-with-node-and-web3/
+// https://www.quicknode.com/guides/solidity/how-to-create-a-bep20-token
 
 // Contract Address : 0x4ac23C4420dD48639cc3aa20d991098071e56b3D
 
